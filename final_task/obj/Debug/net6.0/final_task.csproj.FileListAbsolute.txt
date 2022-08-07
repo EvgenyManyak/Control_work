@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\control_work\final_task\bin\Debug\net6.0\final_task.exe
+C:\Users\Lenovo\Desktop\control_work\final_task\bin\Debug\net6.0\final_task.deps.json
+C:\Users\Lenovo\Desktop\control_work\final_task\bin\Debug\net6.0\final_task.runtimeconfig.json
+C:\Users\Lenovo\Desktop\control_work\final_task\bin\Debug\net6.0\final_task.dll
+C:\Users\Lenovo\Desktop\control_work\final_task\bin\Debug\net6.0\final_task.pdb
+C:\Users\Lenovo\Desktop\control_work\final_task\obj\Debug\net6.0\final_task.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\control_work\final_task\obj\Debug\net6.0\final_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\control_work\final_task\obj\Debug\net6.0\final_task.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\control_work\final_task\obj\Debug\net6.0\final_task.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\control_work\final_task\obj\Debug\net6.0\final_task.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\control_work\final_task\obj\Debug\net6.0\final_task.dll
+C:\Users\Lenovo\Desktop\control_work\final_task\obj\Debug\net6.0\refint\final_task.dll
+C:\Users\Lenovo\Desktop\control_work\final_task\obj\Debug\net6.0\final_task.pdb
+C:\Users\Lenovo\Desktop\control_work\final_task\obj\Debug\net6.0\final_task.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\control_work\final_task\obj\Debug\net6.0\ref\final_task.dll
